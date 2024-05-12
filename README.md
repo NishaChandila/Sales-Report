@@ -15,7 +15,7 @@ The objective of this sales dashboard project was to analyze and visualize the s
 
 **4) Monthly Sales Performance:** The monthly sales range between 38,000 to 100,000 units, indicating fluctuations in demand throughout the year. Understanding these patterns can assist in inventory management, resource allocation, and forecasting.
 
-**5) Customer Count Analysis:** The horizontal bar graph representing customer count offers insights into the customer base's size and distribution. This analysis helps in understanding customer retention, acquisition, and segmentation strategies.
+**5) Customer Count Analysis:** The horizontal bar graph reveals a shift in customer count from just under 600 in 2014 to around 700 in 2017.
 
 
 **Insights:**
