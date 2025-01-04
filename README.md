@@ -6,6 +6,7 @@ This project focuses on developing a **Strategic Sales Analysis Dashboard** to v
 The dashboard was created using **Power BI**, providing dynamic visualizations and user-friendly interaction to support data-driven decision-making.  
 
 Excel Dashobard [Link](https://github.com/NishaChandila/Sales-Report/blob/main/SalesReport.jpg)
+
 Dataset [Link](https://github.com/NishaChandila/Sales-Report/blob/main/salesdata.csv)
 
 ## Dataset  
@@ -63,4 +64,5 @@ Based on the analysis, the following recommendations are proposed:
 This **Strategic Sales Analysis Dashboard** empowers stakeholders with a comprehensive view of sales performance, providing actionable insights for driving growth and improving market positioning. Ongoing analysis and monitoring of sales data will ensure adaptability to evolving market trends and sustained business success.  
 
 Excel Dashobard [Link](https://github.com/NishaChandila/Sales-Report/blob/main/SalesReport.jpg)
+
 Dataset [Link](https://github.com/NishaChandila/Sales-Report/blob/main/salesdata.csv)
